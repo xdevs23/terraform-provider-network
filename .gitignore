@@ -1,0 +1,12 @@
+dist/
+.DS_Store
+/terraform-provider-*
+bin
+
+**/.terraform/*
+
+*.tfstate
+*.tfstate.*
+
+*.tfvars
+.terraform.rc
